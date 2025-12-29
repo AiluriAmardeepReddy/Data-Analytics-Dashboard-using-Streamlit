@@ -1,5 +1,5 @@
 
-# 📊 Streamlit Data Analytics Dashboard
+# 📊 Interactive Data Analytics Dashboard | Python, Streamlit, Pandas
 
 A **dynamic and interactive data analytics dashboard** built using **Streamlit**, **Pandas**, **Matplotlib**, and **Seaborn**. This dashboard allows users to upload any CSV dataset, clean the data, perform EDA, visualize it with multiple chart types, and get insights.
 
