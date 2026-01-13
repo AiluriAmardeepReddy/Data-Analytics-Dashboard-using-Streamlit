@@ -69,15 +69,14 @@ A **dynamic and interactive data analytics dashboard** built using **Streamlit**
   - Seaborn
 
 ## 📁 Project Structure
----
 Data-Analytics-Dashboard-using-Streamlit/
 │
-├── demo.py                         # Main Streamlit application
-├── Cryptocurrency Historical Prices.csv   # Sample dataset
-├── requirements.txt                # Required Python libraries
-├── images/                         # Dashboard screenshots
-├── README.md                       # Project documentation
----
+├── demo.py # Main Streamlit application
+├── Cryptocurrency Historical Prices.csv # Sample dataset
+├── requirements.txt # Required Python libraries
+├── images/ # Dashboard screenshots
+└── README.md # Project documentation
+
 ## ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/AiluriAmardeepReddy/Data-Analytics-Dashboard-using-Streamlit.git
