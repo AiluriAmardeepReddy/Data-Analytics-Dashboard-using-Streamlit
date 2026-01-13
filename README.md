@@ -69,6 +69,7 @@ A **dynamic and interactive data analytics dashboard** built using **Streamlit**
   - Seaborn
 
 ## 📁 Project Structure
+
 Data-Analytics-Dashboard-using-Streamlit/
 │
 ├── demo.py # Main Streamlit application
